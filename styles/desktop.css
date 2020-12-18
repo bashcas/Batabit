@@ -1,0 +1,9 @@
+.features__container {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.features__container--item {
+  width: 650px;
+}
